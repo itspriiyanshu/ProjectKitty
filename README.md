@@ -90,5 +90,5 @@ pip install -r requirements.txt
 #Mp4s
 
 1. Run `workable.py` with a processed runup clip as sys.argv[1].
-2. You can use the sample clips or process your own mp4 for input before using it. (Trimmed raw bowling clip -> `slowmo_standardise.py` -> Ready for `workable.py`)
+2. You can use the `samples` clips directly or process your own mp4 for input before using it. (Trimmed raw bowling clip -> `slowmo_standardise.py` -> Ready for `workable.py`)
 ---
